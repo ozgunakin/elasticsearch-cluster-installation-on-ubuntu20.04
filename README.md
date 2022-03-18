@@ -1,4 +1,4 @@
-# elasticsearch-cluster-installation-on-ubuntu20.04
+# Elasticsearch Cluster Installation on Ubuntu 20.04
 
 This is a step by step guide for building elasticsearch cluster on ubuntu 20.04
 
@@ -68,11 +68,3 @@ Check the status
 ```
 service elasticsearch status
 ```
-
-The output should be like the following;
-
-![](broken-reference)
-
-## Step - 5 Test Elasticsearch
-
-Your Elasticsearch service is up and running now. You can communicate with elasticsearch using curl command, for example you can use the command below to get information about your cluster.
