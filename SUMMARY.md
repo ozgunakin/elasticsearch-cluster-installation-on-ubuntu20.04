@@ -1,3 +1,3 @@
 # Table of contents
 
-* [elasticsearch-cluster-installation-on-ubuntu20.04](README.md)
+* [Elasticsearch Cluster Installation on Ubuntu 20.04](README.md)
